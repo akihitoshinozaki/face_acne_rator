@@ -1,0 +1,5 @@
+{
+  "name": "DermaScan AI",
+  "description": "Advanced facial acne analysis using Gemini AI. Upload a photo to detect lesions, assess severity, and receive treatment suggestions.",
+  "requestFramePermissions": []
+}
